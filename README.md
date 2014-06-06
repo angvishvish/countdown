@@ -8,10 +8,10 @@ moment.
 
 Way to generate js and css minfied files
 ------------
-- 'npm install grunt' 
-- 'grunt js' // to generate the minified js 
-- 'grunt less' // to generate the minified less only when you have @imported new less file
-- 'grunt css' // to generate the minified css  
+- `npm install grunt` 
+- `grunt js` // to generate the minified js 
+- `grunt less` // to generate the minified less only when you have @imported new less file
+- `grunt css` // to generate the minified css  
 
 Way to run the app
 ------------
