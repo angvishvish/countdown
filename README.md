@@ -15,7 +15,7 @@ Way to generate js and css minfied files
 
 Way to run the app
 ------------
-- 'server'
+- `server`
 
 Things to do
 ------------
